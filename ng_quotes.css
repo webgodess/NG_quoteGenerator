@@ -1,0 +1,23 @@
+body,button{
+    background-color: #95bb72 !important;
+    color:white !important;
+  }
+  
+  #quote-box{
+     background-color:white;
+    color:#2f3d2a;
+    min-height:300px;
+  }
+  
+  a:visited,#tweet-quote{
+    text-decoration: none;
+  }
+  
+  a>i{
+    color:white
+  }
+  
+  
+  
+  
+  
